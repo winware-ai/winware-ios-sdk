@@ -1,0 +1,11 @@
+framework module Winware {
+  umbrella header "Winware.h"
+
+  export *
+  module * { export * }
+}
+
+module Winware.Swift {
+    header "Winware-Swift.h"
+    requires objc
+}
