@@ -1,0 +1,505 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware"
+      },
+      {
+        "kind": "Import",
+        "name": "ObjectiveC",
+        "printedName": "ObjectiveC",
+        "declKind": "Import",
+        "moduleName": "Winware"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Winware"
+      },
+      {
+        "kind": "Var",
+        "name": "WinwareSDKVersion",
+        "printedName": "WinwareSDKVersion",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:7Winware0A10SDKVersionSSvp",
+        "mangledName": "$s7Winware0A10SDKVersionSSvp",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:7Winware0A10SDKVersionSSvg",
+            "mangledName": "$s7Winware0A10SDKVersionSSvg",
+            "moduleName": "Winware",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WinwareSDK",
+        "printedName": "WinwareSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "startSessionWith",
+            "printedName": "startSessionWith(organizationId:userIdentity:metadata:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)startSessionWithOrganizationId:userIdentity:metadata:",
+            "mangledName": "$s7Winware0A3SDKC16startSessionWith14organizationId12userIdentity8metadataySS_SSSgSDySSypGSgtFZ",
+            "moduleName": "Winware",
+            "static": true,
+            "objc_name": "startSessionWithOrganizationId:userIdentity:metadata:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setMetadata",
+            "printedName": "setMetadata(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)setMetadata:",
+            "mangledName": "$s7Winware0A3SDKC11setMetadatayySDySSypGFZ",
+            "moduleName": "Winware",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setUserIdentity",
+            "printedName": "setUserIdentity(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)setUserIdentity:",
+            "mangledName": "$s7Winware0A3SDKC15setUserIdentityyySSFZ",
+            "moduleName": "Winware",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "excludeSystemViewControllersFromTracking",
+            "printedName": "excludeSystemViewControllersFromTracking(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)excludeSystemViewControllersFromTracking:",
+            "mangledName": "$s7Winware0A3SDKC40excludeSystemViewControllersFromTrackingyySbFZ",
+            "moduleName": "Winware",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WinwareSDK",
+                "printedName": "Winware.WinwareSDK",
+                "usr": "c:@M@Winware@objc(cs)WinwareSDK"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Winware@objc(cs)WinwareSDK(im)init",
+            "mangledName": "$s7Winware0A3SDKCACycfc",
+            "moduleName": "Winware",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Winware@objc(cs)WinwareSDK",
+        "mangledName": "$s7Winware0A3SDKC",
+        "moduleName": "Winware",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareLog.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 41,
+      "value": "\"https:\/\/winware.ai\/logger\/entries:write\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareLog.swift",
+      "kind": "StringLiteral",
+      "offset": 513,
+      "length": 9,
+      "value": "\"version\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
+      "kind": "BooleanLiteral",
+      "offset": 205,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7689,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
+      "kind": "StringLiteral",
+      "offset": 8701,
+      "length": 92,
+      "value": "\"Winware: unsupported view type: \""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
+      "kind": "StringLiteral",
+      "offset": 8792,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 199,
+      "length": 6,
+      "value": "\"-._~\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 45,
+      "value": "\"https:\/\/script-api.impactproduct.com\/script\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 47,
+      "value": "\"https:\/\/storage.googleapis.com\/rfyi-prod-cdn\/\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareAPI.swift",
+      "kind": "Dictionary",
+      "offset": 732,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/Winware.docc\/Winware.swift",
+      "kind": "StringLiteral",
+      "offset": 140,
+      "length": 7,
+      "value": "\"0.0.2\""
+    }
+  ]
+}

@@ -6,6 +6,6 @@ framework module Winware {
 }
 
 module Winware.Swift {
-    header "Winware-Swift.h"
-    requires objc
+  header "Winware-Swift.h"
+  requires objc
 }

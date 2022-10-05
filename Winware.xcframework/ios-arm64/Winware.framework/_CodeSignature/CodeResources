@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Winware-Swift.h</key>
 		<data>
-		+YlIQ8BwqmHUMVIDFUqeD3hWp0A=
+		GPWLSSmjV8HPG1jsLp+UpPJhMdg=
 		</data>
 		<key>Headers/Winware.h</key>
 		<data>
@@ -14,23 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aKiunmCdVhFKr9Do73l/1/YT7Es=
+		CrsPHlRnRfM800P2HmWaRidTBQ4=
+		</data>
+		<key>Modules/Winware.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		AxTCKRZGdxyB7xN6gvjkgO9ksNE=
+		</data>
+		<key>Modules/Winware.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		+2coFjw6PGZR64AQmnxLZGnUI9c=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		c7cDJ6AH43Xi+7Gr6DMLz95M5+4=
+		FNkN4AA2m1FVNdj4WuROA4DntV8=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		YfTQHHUMt7VkNUFUQmxfWhCSaE8=
+		+2coFjw6PGZR64AQmnxLZGnUI9c=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		77e1tE/XwFy4J1B/TKLcLcO3MZw=
+		RnEh4XsGBixiPZITvCl0istS5AA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		2SJaRB9cdwfJBqmzJnfWtTdkVjo=
+		UWnZsf3cG/C1eJJZnu1yRNpgRgQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nzRUkimVgtB3z+c8y33lpBnfcAsrE0wmZ1Ql+RNjpzI=
+			H/VabKHYt6BGiV9HikzRUlow5XB057YJ11y8CcrHTuA=
 			</data>
 		</dict>
 		<key>Headers/Winware.h</key>
@@ -49,32 +57,46 @@
 			WD4UjaUGXvwVbxstGRuUpweE6iAqbFBhFDBAvZoLjSc=
 			</data>
 		</dict>
+		<key>Modules/Winware.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FyGlVVEEcs4JwseRXGqenx0N6HuPJcC+tqhHByOMx3Q=
+			</data>
+		</dict>
+		<key>Modules/Winware.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eX+IVJr08q6RCGLZDe22UMyiSe1eYdIAffOw4S8Wq/k=
+			</data>
+		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tIt9UT/6X3w181nS1/suZ0Ull9CGEYd9XZhoxsO4wgo=
+			pJxolBn9MxbwbiQ9RZPWOJZFiGHO2wnWNMsKBhnlDNg=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E00lPiqi/61+esuu/mIrr3fiuX5qUGJWh3G4WPKI208=
+			eX+IVJr08q6RCGLZDe22UMyiSe1eYdIAffOw4S8Wq/k=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xdZrVd00LUNr7g99jTGVyxL8eOvfbTKwmC78/aqf+og=
+			OP52BXgtrnX9HgoPU3fST3OPEfF+ZiCYRmqkc4DsyQw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fy61cpJlx9b1k/bkI2+gDItHhFNLVqgG/PydF5BfVS8=
+			sC3JQmFOC8KXGAhd7OCa7AJAEmQ1whKJjQwaLq76KLM=
 			</data>
 		</dict>
 	</dict>
