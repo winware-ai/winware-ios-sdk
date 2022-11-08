@@ -233,27 +233,35 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Dictionary",
-                "printedName": "[Swift.String : Any]",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "Any"
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
                   }
                 ],
-                "usr": "s:SD"
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
             "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)setMetadata:",
-            "mangledName": "$s7Winware0A3SDKC11setMetadatayySDySSypGFZ",
+            "mangledName": "$s7Winware0A3SDKC11setMetadatayySDySSypGSgFZ",
             "moduleName": "Winware",
             "static": true,
             "declAttributes": [
@@ -275,14 +283,22 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
             "usr": "c:@M@Winware@objc(cs)WinwareSDK(cm)setUserIdentity:",
-            "mangledName": "$s7Winware0A3SDKC15setUserIdentityyySSFZ",
+            "mangledName": "$s7Winware0A3SDKC15setUserIdentityyySSSgFZ",
             "moduleName": "Winware",
             "static": true,
             "declAttributes": [
@@ -448,21 +464,21 @@
     {
       "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
       "kind": "IntegerLiteral",
-      "offset": 7689,
+      "offset": 7669,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
       "kind": "StringLiteral",
-      "offset": 8701,
+      "offset": 8681,
       "length": 92,
       "value": "\"Winware: unsupported view type: \""
     },
     {
       "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareTrackUI.swift",
       "kind": "StringLiteral",
-      "offset": 8792,
+      "offset": 8772,
       "length": 2,
       "value": "\"\""
     },
@@ -490,7 +506,7 @@
     {
       "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/WinwareAPI.swift",
       "kind": "Dictionary",
-      "offset": 732,
+      "offset": 702,
       "length": 3,
       "value": "[]"
     },
@@ -499,7 +515,21 @@
       "kind": "StringLiteral",
       "offset": 140,
       "length": 7,
-      "value": "\"0.0.2\""
+      "value": "\"0.0.3\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/Winware.docc\/Winware.swift",
+      "kind": "StringLiteral",
+      "offset": 309,
+      "length": 21,
+      "value": "\"ai.winware.metadata\""
+    },
+    {
+      "filePath": "\/Users\/maciej\/Documents\/Work\/Winware\/ios\/sdk\/Winware\/Winware.docc\/Winware.swift",
+      "kind": "StringLiteral",
+      "offset": 428,
+      "length": 21,
+      "value": "\"ai.winware.identity\""
     }
   ]
 }

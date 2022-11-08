@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Winware-Swift.h</key>
 		<data>
-		4yV/Plea2bSme2Q+RtGkMb50rKg=
+		nwLEljklYHLQUZ7Li4ypoz/ICjo=
 		</data>
 		<key>Headers/Winware.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3L8c+pF7xJZGlnJxYzv8MCn9m/Q=
+		ku2u3BtmmI5aLuxlH6Xn/l8vXDk=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AxTCKRZGdxyB7xN6gvjkgO9ksNE=
+		yPfG79sl6EN1rcEQQUzUDzuGJVI=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		K0tRuKj+Mvz3jmGxz8GsXJylo9Y=
+		RqhaDf8ogbD303UMXDWmroLI6GA=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vtMNbVmhMVoXubrXolfIlYv+XuQ=
+		6rVrA8YkhB5reOLHYXHNTxr8i+s=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		K0tRuKj+Mvz3jmGxz8GsXJylo9Y=
+		RqhaDf8ogbD303UMXDWmroLI6GA=
 		</data>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0iaPf3ZkkuIUv87nOh476/ljMCU=
+		XNcwLCtS1k8FdChhSznAJOiZQTs=
 		</data>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AxTCKRZGdxyB7xN6gvjkgO9ksNE=
+		yPfG79sl6EN1rcEQQUzUDzuGJVI=
 		</data>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3PWKTqkx1fMumUJUjVSaZ+6YwCY=
+		h7fBoQ8zWpYMlUrJr+7j2Ng75XQ=
 		</data>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kPguGc/lFrU2MexlPDaOHPvBwTA=
+		BIxfBUz2XiiAQH+jKYvAAryEhp8=
 		</data>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3PWKTqkx1fMumUJUjVSaZ+6YwCY=
+		h7fBoQ8zWpYMlUrJr+7j2Ng75XQ=
 		</data>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nY1s7QSDoJvR6j9XfmjcThJhY7g=
+		RfS9Vji+j0Wp71pjfSpGP++7ayI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			33wUUpBYYsU0nfWQKRp71z6mD4seVVoDcIp9R7MkxzI=
+			7RNifS3aY4omUufKq/T72vRce82JHHamX0IeoX0RWSs=
 			</data>
 		</dict>
 		<key>Headers/Winware.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyGlVVEEcs4JwseRXGqenx0N6HuPJcC+tqhHByOMx3Q=
+			aUTXRwbm/QpRvCugQq97L125Pp43DJJzZ42NKwtSHT8=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Csf4+HS9HwoGns5hX1EupUjxaS1sEc0q5TLHPtrWysU=
+			n/0VjJHySf3+PYOYGzeMb0h1rTmNhpNzhyU1INUS/tA=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zSFKXm0F6XCMO/mJ9lCesWLlS6pT+58kIh3Up27XX/k=
+			YiF1Yk3C8x5qMjJg8LuNnLb+/NsxPm3MjAUEb1MyMbo=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Csf4+HS9HwoGns5hX1EupUjxaS1sEc0q5TLHPtrWysU=
+			n/0VjJHySf3+PYOYGzeMb0h1rTmNhpNzhyU1INUS/tA=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q3demH/xB7YbCn7w9oPN26760Uh0s70I1KdYUftjAhE=
+			JhLI1ZOlRNo8S27/Zfp3TWlCHK2nuyMUK2wq/SA6X8I=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyGlVVEEcs4JwseRXGqenx0N6HuPJcC+tqhHByOMx3Q=
+			aUTXRwbm/QpRvCugQq97L125Pp43DJJzZ42NKwtSHT8=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vQG2CF6G+ODKUXmHoJI9/sO3QHzbsofQVACkzUFPYFw=
+			yXMfGn38WGFBd3yY7fReySPG81rXOjjtq8EatEADkxo=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PHNJcqklnYbFmw79S2SWtDelaCTWjIYfjwcmmpxcjc4=
+			/7cv+VWO2Je4xxUz5H/bJuHeDI7hvDsN3OsAcBgXzts=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vQG2CF6G+ODKUXmHoJI9/sO3QHzbsofQVACkzUFPYFw=
+			yXMfGn38WGFBd3yY7fReySPG81rXOjjtq8EatEADkxo=
 			</data>
 		</dict>
 		<key>Modules/Winware.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8xr+WVFNsAM9nxDFru5HGnnsm4dJY1CoyMcB7Qu4bSc=
+			3w82WvVvX38QmgTyc03W9/VZTeCp1N5Qzg5uOhz5Eu4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
